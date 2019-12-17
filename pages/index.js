@@ -16,7 +16,8 @@ const Home = () => (
     <div className="hero" style={{ fontFamily: "Roboto" }}>
       <h1 className="title">Trang web đang bảo trì</h1>
       <p className="description">
-        Chúng tôi đang bảo trì và cập nhật dữ liệu, vui lòng quay lại sau!
+        Chúng tôi đang bảo trì và cập nhật dữ liệu, thời gian dự kiến 30 phút.
+        Xin quý khách vui lòng quay lại sau!
       </p>
     </div>
 
